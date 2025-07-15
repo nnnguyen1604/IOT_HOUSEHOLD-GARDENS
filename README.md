@@ -11,3 +11,6 @@ Sơ đồ khối hệ thống
 Ứng dụng di động trên nền tảng Thunkable
 
 <img width="1099" height="447" alt="Screenshot 2025-07-15 071246" src="https://github.com/user-attachments/assets/d9e6c4bf-dcf9-415b-92c1-470cb6374fd2" />
+
+Cơ sở dữ liệu Firebase
+
