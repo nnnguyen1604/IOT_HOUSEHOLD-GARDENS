@@ -12,5 +12,8 @@ Sơ đồ khối hệ thống
 
 <img width="1099" height="447" alt="Screenshot 2025-07-15 071246" src="https://github.com/user-attachments/assets/d9e6c4bf-dcf9-415b-92c1-470cb6374fd2" />
 
-Cơ sở dữ liệu Firebase
+Tổng quan mô hình
+
+<img width="884" height="992" alt="image" src="https://github.com/user-attachments/assets/a43c9610-9f2d-460a-afa7-9573b67b37dd" />
+
 
